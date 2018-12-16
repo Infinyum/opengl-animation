@@ -11,7 +11,6 @@ This repository only contains the source code of this project since the entire V
 
 ## Authors
 
-Developped by Thomas VON ASCHEBERG (not on GitHub), Eurydice RUGGIERI (not on GitHub) and Robin MALMASSON (Infinyum)  
-as part of a computer engineering course taught at Polytech Paris-Sud.
+Developped by Thomas VON ASCHEBERG (not on GitHub), Eurydice RUGGIERI (not on GitHub) and Robin MALMASSON (Infinyum) as part of a computer engineering course taught at Polytech Paris-Sud.
 
 January 2018
