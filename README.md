@@ -7,6 +7,8 @@
 Below is a link to a video of the animation hosted on the website of the teacher in charge of this course:
 http://tobias.isenberg.cc/graphics-intro/uploads/Gallery/201718-matrix1.mp4
 
+This repository only contains the source code of this project since the entire Visual Studio Solution directory was quite big.
+
 ## Authors
 
 Developped by Thomas VON ASCHEBERG (not on GitHub), Eurydice RUGGIERI (not on GitHub) and Robin MALMASSON (Infinyum)  
